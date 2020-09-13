@@ -1,5 +1,4 @@
 ### Hi there, ILTIZAM here 👋
-
 <!--
 **iltizam/iltizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ⚡ Fun fact: ...
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=iltizam&theme=nightowl&show_icons=true&hide=stars,issues)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iltizam&color=blueviolet&style=flat-square&label=Visitor+counter" alt="iltizam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iltizam&color=nightowl&style=flat-square" alt="iltizam" /> </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltizam&layout=compact)](https://github.com/iltizam/github-readme-stats" alt="iltizam" /></p>
